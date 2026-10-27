@@ -1,0 +1,301 @@
+customer_id,customer_name,city,loyalty_tier,age,gender
+1001,Customer_1001,Hyderabad,Regular,47,Male
+1002,Customer_1002,Delhi NCR,Gold,26,Male
+1003,Customer_1003,Pune,Silver,52,Female
+1004,Customer_1004,Pune,Regular,45,Other
+1005,Customer_1005,Hyderabad,Regular,41,Male
+1006,Customer_1006,Mumbai,Regular,50,Female
+1007,Customer_1007,Bangalore,Regular,21,Male
+1008,Customer_1008,Mumbai,Gold,58,Male
+1009,Customer_1009,Hyderabad,Silver,56,Male
+1010,Customer_1010,Hyderabad,Silver,42,Other
+1011,Customer_1011,Hyderabad,Regular,51,Female
+1012,Customer_1012,Pune,Gold,18,Other
+1013,Customer_1013,Bangalore,Silver,52,Female
+1014,Customer_1014,Delhi NCR,Regular,25,Female
+1015,Customer_1015,Hyderabad,Regular,28,Female
+1016,Customer_1016,Bangalore,Regular,34,Other
+1017,Customer_1017,Mumbai,Regular,50,Male
+1018,Customer_1018,Delhi NCR,Regular,58,Other
+1019,Customer_1019,Pune,Regular,30,Male
+1020,Customer_1020,Delhi NCR,Regular,28,Other
+1021,Customer_1021,Pune,Silver,18,Other
+1022,Customer_1022,Delhi NCR,Regular,49,Male
+1023,Customer_1023,Bangalore,Regular,41,Female
+1024,Customer_1024,Mumbai,Regular,21,Male
+1025,Customer_1025,Pune,Regular,23,Male
+1026,Customer_1026,Hyderabad,Silver,22,Other
+1027,Customer_1027,Mumbai,Regular,26,Other
+1028,Customer_1028,Hyderabad,Regular,53,Male
+1029,Customer_1029,Delhi NCR,Regular,51,Other
+1030,Customer_1030,Hyderabad,Regular,31,Other
+1031,Customer_1031,Mumbai,Silver,37,Female
+1032,Customer_1032,Delhi NCR,Regular,46,Other
+1033,Customer_1033,Hyderabad,Regular,25,Male
+1034,Customer_1034,Mumbai,Gold,22,Female
+1035,Customer_1035,Bangalore,Gold,55,Other
+1036,Customer_1036,Mumbai,Silver,55,Male
+1037,Customer_1037,Bangalore,Regular,22,Other
+1038,Customer_1038,Bangalore,Regular,32,Male
+1039,Customer_1039,Bangalore,Silver,39,Male
+1040,Customer_1040,Pune,Regular,33,Female
+1041,Customer_1041,Hyderabad,Regular,31,Other
+1042,Customer_1042,Mumbai,Regular,54,Other
+1043,Customer_1043,Hyderabad,Regular,33,Female
+1044,Customer_1044,Hyderabad,Gold,30,Male
+1045,Customer_1045,Bangalore,Regular,45,Female
+1046,Customer_1046,Hyderabad,Silver,44,Female
+1047,Customer_1047,Bangalore,Regular,24,Male
+1048,Customer_1048,Hyderabad,Regular,39,Male
+1049,Customer_1049,Mumbai,Regular,30,Male
+1050,Customer_1050,Pune,Regular,46,Male
+1051,Customer_1051,Hyderabad,Gold,29,Female
+1052,Customer_1052,Hyderabad,Silver,33,Male
+1053,Customer_1053,Hyderabad,Gold,53,Male
+1054,Customer_1054,Bangalore,Gold,52,Male
+1055,Customer_1055,Bangalore,Regular,33,Male
+1056,Customer_1056,Hyderabad,Gold,49,Female
+1057,Customer_1057,Mumbai,Regular,43,Male
+1058,Customer_1058,Mumbai,Regular,42,Male
+1059,Customer_1059,Hyderabad,Regular,34,Female
+1060,Customer_1060,Delhi NCR,Regular,45,Other
+1061,Customer_1061,Pune,Regular,49,Male
+1062,Customer_1062,Mumbai,Regular,36,Male
+1063,Customer_1063,Bangalore,Silver,55,Other
+1064,Customer_1064,Pune,Regular,21,Other
+1065,Customer_1065,Delhi NCR,Regular,21,Male
+1066,Customer_1066,Pune,Regular,48,Other
+1067,Customer_1067,Pune,Regular,28,Male
+1068,Customer_1068,Pune,Silver,23,Male
+1069,Customer_1069,Bangalore,Regular,56,Male
+1070,Customer_1070,Mumbai,Gold,43,Male
+1071,Customer_1071,Pune,Silver,33,Other
+1072,Customer_1072,Pune,Regular,20,Other
+1073,Customer_1073,Bangalore,Regular,44,Other
+1074,Customer_1074,Pune,Silver,54,Other
+1075,Customer_1075,Delhi NCR,Silver,34,Male
+1076,Customer_1076,Delhi NCR,Silver,33,Female
+1077,Customer_1077,Hyderabad,Silver,26,Other
+1078,Customer_1078,Delhi NCR,Regular,47,Female
+1079,Customer_1079,Bangalore,Regular,18,Female
+1080,Customer_1080,Pune,Regular,54,Male
+1081,Customer_1081,Bangalore,Gold,52,Male
+1082,Customer_1082,Pune,Silver,34,Male
+1083,Customer_1083,Delhi NCR,Regular,22,Male
+1084,Customer_1084,Delhi NCR,Regular,36,Male
+1085,Customer_1085,Hyderabad,Regular,52,Other
+1086,Customer_1086,Delhi NCR,Regular,57,Other
+1087,Customer_1087,Pune,Silver,18,Other
+1088,Customer_1088,Pune,Silver,37,Other
+1089,Customer_1089,Bangalore,Gold,26,Female
+1090,Customer_1090,Bangalore,Regular,24,Other
+1091,Customer_1091,Pune,Regular,27,Female
+1092,Customer_1092,Delhi NCR,Silver,56,Male
+1093,Customer_1093,Delhi NCR,Silver,31,Other
+1094,Customer_1094,Delhi NCR,Regular,50,Female
+1095,Customer_1095,Delhi NCR,Silver,21,Male
+1096,Customer_1096,Hyderabad,Regular,35,Male
+1097,Customer_1097,Bangalore,Regular,39,Male
+1098,Customer_1098,Delhi NCR,Regular,28,Other
+1099,Customer_1099,Hyderabad,Regular,53,Other
+1100,Customer_1100,Hyderabad,Regular,53,Male
+1101,Customer_1101,Bangalore,Regular,22,Other
+1102,Customer_1102,Mumbai,Silver,52,Male
+1103,Customer_1103,Delhi NCR,Regular,55,Other
+1104,Customer_1104,Mumbai,Regular,45,Male
+1105,Customer_1105,Bangalore,Gold,37,Female
+1106,Customer_1106,Bangalore,Regular,40,Male
+1107,Customer_1107,Mumbai,Regular,24,Female
+1108,Customer_1108,Pune,Silver,44,Other
+1109,Customer_1109,Mumbai,Regular,33,Male
+1110,Customer_1110,Mumbai,Regular,44,Male
+1111,Customer_1111,Mumbai,Regular,39,Female
+1112,Customer_1112,Mumbai,Regular,35,Male
+1113,Customer_1113,Bangalore,Gold,42,Male
+1114,Customer_1114,Hyderabad,Silver,32,Male
+1115,Customer_1115,Hyderabad,Silver,40,Female
+1116,Customer_1116,Mumbai,Gold,32,Male
+1117,Customer_1117,Mumbai,Silver,43,Female
+1118,Customer_1118,Delhi NCR,Regular,22,Female
+1119,Customer_1119,Delhi NCR,Gold,50,Female
+1120,Customer_1120,Pune,Regular,39,Male
+1121,Customer_1121,Bangalore,Silver,34,Male
+1122,Customer_1122,Pune,Gold,34,Male
+1123,Customer_1123,Bangalore,Regular,56,Female
+1124,Customer_1124,Delhi NCR,Regular,38,Female
+1125,Customer_1125,Pune,Regular,50,Male
+1126,Customer_1126,Hyderabad,Regular,54,Male
+1127,Customer_1127,Delhi NCR,Silver,20,Other
+1128,Customer_1128,Hyderabad,Gold,18,Other
+1129,Customer_1129,Pune,Regular,30,Female
+1130,Customer_1130,Hyderabad,Regular,22,Other
+1131,Customer_1131,Delhi NCR,Regular,57,Female
+1132,Customer_1132,Bangalore,Regular,37,Other
+1133,Customer_1133,Delhi NCR,Regular,44,Female
+1134,Customer_1134,Hyderabad,Regular,36,Other
+1135,Customer_1135,Mumbai,Gold,30,Female
+1136,Customer_1136,Hyderabad,Regular,29,Other
+1137,Customer_1137,Pune,Regular,37,Female
+1138,Customer_1138,Pune,Silver,18,Female
+1139,Customer_1139,Delhi NCR,Regular,31,Female
+1140,Customer_1140,Pune,Gold,56,Other
+1141,Customer_1141,Delhi NCR,Gold,47,Female
+1142,Customer_1142,Hyderabad,Regular,31,Other
+1143,Customer_1143,Hyderabad,Regular,28,Other
+1144,Customer_1144,Bangalore,Regular,36,Other
+1145,Customer_1145,Pune,Regular,39,Male
+1146,Customer_1146,Mumbai,Regular,37,Male
+1147,Customer_1147,Mumbai,Silver,27,Male
+1148,Customer_1148,Bangalore,Regular,33,Female
+1149,Customer_1149,Pune,Regular,22,Female
+1150,Customer_1150,Hyderabad,Regular,58,Other
+1151,Customer_1151,Mumbai,Gold,42,Female
+1152,Customer_1152,Hyderabad,Regular,33,Male
+1153,Customer_1153,Bangalore,Regular,24,Female
+1154,Customer_1154,Mumbai,Regular,29,Other
+1155,Customer_1155,Pune,Gold,47,Male
+1156,Customer_1156,Pune,Regular,33,Male
+1157,Customer_1157,Hyderabad,Silver,26,Female
+1158,Customer_1158,Pune,Silver,53,Other
+1159,Customer_1159,Delhi NCR,Regular,46,Other
+1160,Customer_1160,Pune,Silver,45,Other
+1161,Customer_1161,Hyderabad,Regular,28,Other
+1162,Customer_1162,Hyderabad,Silver,46,Female
+1163,Customer_1163,Mumbai,Silver,58,Female
+1164,Customer_1164,Pune,Regular,49,Other
+1165,Customer_1165,Mumbai,Regular,35,Female
+1166,Customer_1166,Bangalore,Silver,36,Male
+1167,Customer_1167,Delhi NCR,Regular,39,Female
+1168,Customer_1168,Pune,Regular,23,Male
+1169,Customer_1169,Mumbai,Regular,32,Female
+1170,Customer_1170,Mumbai,Regular,31,Male
+1171,Customer_1171,Hyderabad,Silver,44,Female
+1172,Customer_1172,Pune,Regular,47,Female
+1173,Customer_1173,Bangalore,Regular,31,Female
+1174,Customer_1174,Hyderabad,Regular,55,Other
+1175,Customer_1175,Bangalore,Silver,54,Female
+1176,Customer_1176,Hyderabad,Regular,18,Female
+1177,Customer_1177,Delhi NCR,Silver,42,Female
+1178,Customer_1178,Pune,Regular,52,Other
+1179,Customer_1179,Mumbai,Gold,49,Male
+1180,Customer_1180,Delhi NCR,Regular,45,Female
+1181,Customer_1181,Bangalore,Regular,42,Female
+1182,Customer_1182,Hyderabad,Regular,28,Female
+1183,Customer_1183,Mumbai,Gold,57,Other
+1184,Customer_1184,Bangalore,Gold,43,Other
+1185,Customer_1185,Pune,Regular,19,Male
+1186,Customer_1186,Hyderabad,Silver,26,Female
+1187,Customer_1187,Mumbai,Silver,21,Female
+1188,Customer_1188,Hyderabad,Regular,38,Male
+1189,Customer_1189,Hyderabad,Regular,38,Female
+1190,Customer_1190,Hyderabad,Regular,35,Female
+1191,Customer_1191,Delhi NCR,Regular,23,Female
+1192,Customer_1192,Bangalore,Gold,52,Male
+1193,Customer_1193,Delhi NCR,Gold,32,Other
+1194,Customer_1194,Bangalore,Silver,20,Male
+1195,Customer_1195,Mumbai,Regular,30,Male
+1196,Customer_1196,Pune,Regular,27,Male
+1197,Customer_1197,Mumbai,Silver,48,Other
+1198,Customer_1198,Bangalore,Gold,54,Male
+1199,Customer_1199,Hyderabad,Gold,34,Female
+1200,Customer_1200,Mumbai,Silver,56,Other
+1201,Customer_1201,Bangalore,Silver,28,Female
+1202,Customer_1202,Bangalore,Regular,55,Male
+1203,Customer_1203,Delhi NCR,Regular,54,Other
+1204,Customer_1204,Hyderabad,Gold,43,Other
+1205,Customer_1205,Mumbai,Silver,22,Other
+1206,Customer_1206,Mumbai,Regular,24,Other
+1207,Customer_1207,Delhi NCR,Regular,56,Male
+1208,Customer_1208,Pune,Silver,20,Female
+1209,Customer_1209,Pune,Regular,45,Other
+1210,Customer_1210,Delhi NCR,Regular,22,Other
+1211,Customer_1211,Delhi NCR,Regular,18,Female
+1212,Customer_1212,Hyderabad,Silver,24,Female
+1213,Customer_1213,Delhi NCR,Silver,58,Female
+1214,Customer_1214,Mumbai,Regular,45,Male
+1215,Customer_1215,Pune,Silver,35,Other
+1216,Customer_1216,Pune,Regular,48,Female
+1217,Customer_1217,Hyderabad,Regular,55,Female
+1218,Customer_1218,Delhi NCR,Silver,33,Male
+1219,Customer_1219,Delhi NCR,Silver,46,Male
+1220,Customer_1220,Hyderabad,Silver,54,Other
+1221,Customer_1221,Hyderabad,Silver,39,Male
+1222,Customer_1222,Hyderabad,Regular,38,Male
+1223,Customer_1223,Hyderabad,Regular,31,Female
+1224,Customer_1224,Delhi NCR,Regular,39,Female
+1225,Customer_1225,Pune,Regular,35,Other
+1226,Customer_1226,Bangalore,Regular,51,Male
+1227,Customer_1227,Bangalore,Gold,33,Other
+1228,Customer_1228,Hyderabad,Regular,49,Other
+1229,Customer_1229,Mumbai,Gold,48,Other
+1230,Customer_1230,Hyderabad,Silver,46,Male
+1231,Customer_1231,Bangalore,Silver,36,Male
+1232,Customer_1232,Hyderabad,Regular,33,Female
+1233,Customer_1233,Pune,Regular,41,Female
+1234,Customer_1234,Pune,Regular,51,Female
+1235,Customer_1235,Hyderabad,Regular,53,Female
+1236,Customer_1236,Delhi NCR,Silver,47,Female
+1237,Customer_1237,Delhi NCR,Regular,34,Male
+1238,Customer_1238,Bangalore,Regular,30,Female
+1239,Customer_1239,Bangalore,Silver,52,Other
+1240,Customer_1240,Mumbai,Regular,30,Male
+1241,Customer_1241,Hyderabad,Gold,35,Other
+1242,Customer_1242,Pune,Gold,51,Other
+1243,Customer_1243,Delhi NCR,Gold,24,Male
+1244,Customer_1244,Delhi NCR,Regular,32,Female
+1245,Customer_1245,Mumbai,Regular,37,Male
+1246,Customer_1246,Pune,Gold,26,Female
+1247,Customer_1247,Bangalore,Regular,21,Other
+1248,Customer_1248,Delhi NCR,Gold,26,Other
+1249,Customer_1249,Hyderabad,Gold,24,Male
+1250,Customer_1250,Pune,Gold,36,Female
+1251,Customer_1251,Hyderabad,Regular,46,Female
+1252,Customer_1252,Mumbai,Regular,21,Female
+1253,Customer_1253,Hyderabad,Gold,25,Male
+1254,Customer_1254,Hyderabad,Regular,49,Male
+1255,Customer_1255,Pune,Regular,58,Other
+1256,Customer_1256,Bangalore,Regular,27,Male
+1257,Customer_1257,Pune,Gold,37,Male
+1258,Customer_1258,Mumbai,Silver,25,Other
+1259,Customer_1259,Hyderabad,Regular,56,Other
+1260,Customer_1260,Pune,Regular,32,Other
+1261,Customer_1261,Hyderabad,Silver,46,Female
+1262,Customer_1262,Delhi NCR,Gold,55,Female
+1263,Customer_1263,Delhi NCR,Regular,54,Other
+1264,Customer_1264,Bangalore,Regular,57,Other
+1265,Customer_1265,Bangalore,Gold,31,Other
+1266,Customer_1266,Mumbai,Silver,34,Other
+1267,Customer_1267,Bangalore,Silver,28,Male
+1268,Customer_1268,Mumbai,Silver,53,Male
+1269,Customer_1269,Mumbai,Regular,18,Female
+1270,Customer_1270,Hyderabad,Regular,56,Female
+1271,Customer_1271,Delhi NCR,Silver,20,Male
+1272,Customer_1272,Delhi NCR,Silver,36,Other
+1273,Customer_1273,Hyderabad,Gold,22,Other
+1274,Customer_1274,Mumbai,Gold,34,Other
+1275,Customer_1275,Pune,Regular,30,Female
+1276,Customer_1276,Bangalore,Regular,52,Male
+1277,Customer_1277,Mumbai,Silver,35,Male
+1278,Customer_1278,Bangalore,Silver,21,Male
+1279,Customer_1279,Delhi NCR,Silver,56,Other
+1280,Customer_1280,Pune,Silver,36,Female
+1281,Customer_1281,Bangalore,Gold,47,Other
+1282,Customer_1282,Delhi NCR,Regular,43,Female
+1283,Customer_1283,Pune,Regular,52,Female
+1284,Customer_1284,Hyderabad,Regular,23,Other
+1285,Customer_1285,Bangalore,Regular,45,Other
+1286,Customer_1286,Delhi NCR,Regular,56,Female
+1287,Customer_1287,Bangalore,Regular,23,Male
+1288,Customer_1288,Pune,Regular,55,Male
+1289,Customer_1289,Delhi NCR,Regular,54,Male
+1290,Customer_1290,Mumbai,Regular,48,Other
+1291,Customer_1291,Hyderabad,Regular,35,Male
+1292,Customer_1292,Pune,Regular,45,Other
+1293,Customer_1293,Hyderabad,Silver,23,Female
+1294,Customer_1294,Delhi NCR,Regular,44,Female
+1295,Customer_1295,Delhi NCR,Regular,24,Male
+1296,Customer_1296,Delhi NCR,Regular,44,Other
+1297,Customer_1297,Hyderabad,Silver,36,Other
+1298,Customer_1298,Hyderabad,Regular,53,Male
+1299,Customer_1299,Hyderabad,Silver,23,Female
+1300,Customer_1300,Delhi NCR,Regular,38,Male

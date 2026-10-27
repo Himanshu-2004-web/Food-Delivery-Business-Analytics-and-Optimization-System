@@ -1,0 +1,31 @@
+partner_id,partner_name,base_city,vehicle_type,rating
+201,Partner_201,Bangalore,Motorcycle,4.7
+202,Partner_202,Mumbai,Motorcycle,4.1
+203,Partner_203,Bangalore,Electric Bike,4.7
+204,Partner_204,Pune,Motorcycle,4.5
+205,Partner_205,Bangalore,Motorcycle,4.1
+206,Partner_206,Mumbai,Electric Bike,4.5
+207,Partner_207,Pune,Motorcycle,4.6
+208,Partner_208,Pune,Scooter,4.2
+209,Partner_209,Pune,Scooter,4.7
+210,Partner_210,Bangalore,Motorcycle,4.6
+211,Partner_211,Delhi NCR,Scooter,4.1
+212,Partner_212,Delhi NCR,Motorcycle,4.1
+213,Partner_213,Bangalore,Scooter,4.8
+214,Partner_214,Pune,Scooter,4.7
+215,Partner_215,Hyderabad,Electric Bike,4.1
+216,Partner_216,Hyderabad,Motorcycle,4.5
+217,Partner_217,Pune,Scooter,4.5
+218,Partner_218,Bangalore,Motorcycle,4.6
+219,Partner_219,Delhi NCR,Motorcycle,4.8
+220,Partner_220,Bangalore,Scooter,4.3
+221,Partner_221,Delhi NCR,Motorcycle,4.3
+222,Partner_222,Mumbai,Electric Bike,4.2
+223,Partner_223,Bangalore,Electric Bike,4.6
+224,Partner_224,Pune,Electric Bike,4.2
+225,Partner_225,Hyderabad,Scooter,4.2
+226,Partner_226,Pune,Motorcycle,4.6
+227,Partner_227,Bangalore,Motorcycle,4.7
+228,Partner_228,Delhi NCR,Scooter,4.2
+229,Partner_229,Mumbai,Electric Bike,4.8
+230,Partner_230,Delhi NCR,Motorcycle,4.6

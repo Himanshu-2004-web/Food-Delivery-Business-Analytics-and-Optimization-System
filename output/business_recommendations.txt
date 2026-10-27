@@ -1,0 +1,11 @@
+FOOD DELIVERY BUSINESS ANALYTICS - PRESCRIPTIVE RECOMMENDATIONS
+======================================================================
+
+1. [STRATEGY 1 - LOGISTICS] Dynamic Fleet Capacity Surge: Dinner peak orders experience a 16.1% late delivery rate. Implement a 20-25% delivery partner surge bonus between 19:00 - 21:30 in Bangalore and Mumbai to reduce order dispatch latency.
+
+2. [STRATEGY 3 - PARTNER QUALITY] SLA & Quality Review: Identified 20 restaurant partner(s) consistently averaging below 3.9 stars. Place these kitchens on a 14-day packaging & prep time review program before terminating platform listing.
+
+3. [STRATEGY 4 - FINANCIAL OPTIMIZATION] Margin Rationalization: Maintain free delivery subsidies strictly for orders above INR 550. Subsidies on low-ticket orders under INR 300 erode over 40% of platform revenue.
+
+4. [STRATEGY 5 - CUSTOMER RETENTION] Automated Compensation Trigger: Set an automated customer service credit trigger for any order exceeding the statistical IQR Upper Bound (55.9 mins) to prevent long-term churn.
+

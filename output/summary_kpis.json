@@ -1,0 +1,16 @@
+{
+    "total_orders": 2000,
+    "delivered_orders": 1881,
+    "cancelled_orders": 98,
+    "returned_orders": 21,
+    "cancellation_rate_pct": 4.9,
+    "total_gross_merchandise_value_inr": 1241003.0,
+    "total_platform_revenue_inr": 259371.35,
+    "total_discounts_given_inr": 76726.81,
+    "take_rate_pct": 20.9,
+    "average_order_value_inr": 620.5,
+    "average_delivery_time_mins": 35.16,
+    "median_delivery_time_mins": 33.8,
+    "average_customer_rating": 3.65,
+    "average_distance_km": 4.28
+}

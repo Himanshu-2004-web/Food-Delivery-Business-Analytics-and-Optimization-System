@@ -1,0 +1,21 @@
+restaurant_id,restaurant_name,city,cuisine_category,avg_rating,commission_rate
+101,Spice Hub,Bangalore,North Indian,4.3,0.2
+102,Royal Biryani Mahal,Hyderabad,Biryani,4.6,0.22
+103,Pizza Fiesta,Mumbai,Italian,4.1,0.18
+104,Burger Junction,Delhi NCR,Fast Food,4.2,0.18
+105,Wok Express,Bangalore,Chinese,3.9,0.2
+106,Green Leaf Veg,Pune,South Indian,4.5,0.15
+107,Sweet Tooth Bakery,Mumbai,Desserts,4.7,0.25
+108,Dilli 6 Chaat Corner,Delhi NCR,Fast Food,4.4,0.18
+109,Hyderabadi Bawarchi,Hyderabad,Biryani,4.3,0.2
+110,Puneri Thali House,Pune,North Indian,4.0,0.18
+111,Udupi Sagar,Bangalore,South Indian,4.4,0.15
+112,Tandoori Nights,Delhi NCR,North Indian,3.8,0.22
+113,Chowpatty Delights,Mumbai,Fast Food,4.2,0.18
+114,Nizam's Kitchen,Hyderabad,Biryani,4.5,0.22
+115,Pasta Street,Bangalore,Italian,4.0,0.2
+116,The Belgian Waffle Co,Pune,Desserts,4.6,0.25
+117,Dragon Bowl,Mumbai,Chinese,3.7,0.2
+118,Punjabi Angithi,Delhi NCR,North Indian,4.3,0.2
+119,Paradise Flavors,Hyderabad,Biryani,4.1,0.2
+120,Cafe Goodluck,Pune,Fast Food,4.5,0.18

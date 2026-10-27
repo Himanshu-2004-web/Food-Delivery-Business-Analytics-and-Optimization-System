@@ -1,0 +1,3 @@
+Variable,Count,Mean,Median,Mode,Std Dev,Min,Max,Q1 (25th),Q3 (75th),IQR,Lower Bound,Upper Bound,Low Outliers Count,High Outliers Count,Total Outliers
+Delivery Time (Minutes),1881,35.16,33.8,32.6,9.05,18.0,100.5,28.9,39.7,10.8,12.7,55.9,0,55,55
+Order Value (INR),2000,620.5,621.5,349.0,231.83,220.0,1270.0,424.75,807.5,382.75,-149.38,1381.62,0,0,0
